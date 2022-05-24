@@ -1,0 +1,14 @@
+.navbar-brand{
+    display: flex;
+    width: 100%;
+    /* border:2px solid black; */
+    align-items:center;
+    font-size:80px;
+    justify-content:center;
+    height: 70px;
+}
+img{
+    margin: 50px;
+    width:75px;
+    height: 75px;
+}
